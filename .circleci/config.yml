@@ -3,7 +3,7 @@ jobs:
   build:
     branches:
       only:
-        - master
+        - circleci-project-setup
  
     docker:
       # specify the version you desire here
